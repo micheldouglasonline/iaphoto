@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio",
+  "description": "An AI-powered photo editor using the 'nano-banana' model to edit images based on text prompts. Upload a photo, describe your desired changes, and let the AI generate a new version.",
+  "requestFramePermissions": []
+}
